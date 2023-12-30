@@ -2,9 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2023-12-30T17:00:07.536Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/library/index.html</loc>
+    
+    <lastmod>2023-12-30T16:48:16.628Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/link/index.html</loc>
+    
+    <lastmod>2023-12-30T16:45:38.149Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/gallery/index.html</loc>
+    
+    <lastmod>2023-12-30T16:45:03.688Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/arcade/index.html</loc>
+    
+    <lastmod>2023-12-30T16:39:58.262Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/draft/index.html</loc>
+    
+    <lastmod>2023-12-30T16:27:51.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/music/index.html</loc>
+    
+    <lastmod>2023-12-30T16:21:08.776Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/categories/index.html</loc>
     
-    <lastmod>2023-12-28T15:53:45.283Z</lastmod>
+    <lastmod>2023-12-29T04:09:08.372Z</lastmod>
     
   </url>
   
@@ -19,20 +68,6 @@
     <loc>http://example.com/gallery/%25E9%2580%258F%25E7%25BA%25B3(J.%2520M.%2520W.%2520Turner)/index.html</loc>
     
     <lastmod>2023-12-28T13:28:51.590Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/gallery/index.html</loc>
-    
-    <lastmod>2023-12-28T13:28:51.584Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/link/index.html</loc>
-    
-    <lastmod>2023-12-27T15:12:27.313Z</lastmod>
     
   </url>
   
