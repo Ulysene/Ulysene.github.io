@@ -4,7 +4,28 @@
   <url>
     <loc>http://example.com/about/index.html</loc>
     
-    <lastmod>2023-12-30T17:00:07.536Z</lastmod>
+    <lastmod>2023-12-30T17:33:21.434Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/link/index.html</loc>
+    
+    <lastmod>2023-12-30T17:33:21.423Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/arcade/index.html</loc>
+    
+    <lastmod>2023-12-30T17:33:21.408Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/draft/index.html</loc>
+    
+    <lastmod>2023-12-30T17:30:04.983Z</lastmod>
     
   </url>
   
@@ -16,30 +37,9 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
-    
-    <lastmod>2023-12-30T16:45:38.149Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/gallery/index.html</loc>
     
     <lastmod>2023-12-30T16:45:03.688Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/arcade/index.html</loc>
-    
-    <lastmod>2023-12-30T16:39:58.262Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/draft/index.html</loc>
-    
-    <lastmod>2023-12-30T16:27:51.574Z</lastmod>
     
   </url>
   
