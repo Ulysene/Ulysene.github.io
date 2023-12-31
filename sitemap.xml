@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/gallery/%25E9%2580%258F%25E7%25BA%25B3(J.%2520M.%2520W.%2520Turner)/index.html</loc>
+    
+    <lastmod>2023-12-31T14:45:51.492Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/gallery/index.html</loc>
     
     <lastmod>2023-12-31T14:41:40.340Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2023-12-31T14:13:58.790Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/gallery/%25E9%2580%258F%25E7%25BA%25B3(J.%2520M.%2520W.%2520Turner)/index.html</loc>
-    
-    <lastmod>2023-12-28T13:28:51.590Z</lastmod>
     
   </url>
   
