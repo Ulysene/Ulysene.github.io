@@ -2,65 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
-    
-    <lastmod>2023-12-30T17:33:21.434Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/link/index.html</loc>
     
-    <lastmod>2023-12-30T17:33:21.423Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/arcade/index.html</loc>
-    
-    <lastmod>2023-12-30T17:33:21.408Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/draft/index.html</loc>
-    
-    <lastmod>2023-12-30T17:30:04.983Z</lastmod>
+    <lastmod>2023-12-31T14:33:43.212Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/library/index.html</loc>
     
-    <lastmod>2023-12-30T16:48:16.628Z</lastmod>
+    <lastmod>2023-12-31T14:33:00.521Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/gallery/index.html</loc>
+    <loc>http://example.com/arcade/index.html</loc>
     
-    <lastmod>2023-12-30T16:45:03.688Z</lastmod>
+    <lastmod>2023-12-31T14:32:40.111Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/music/index.html</loc>
     
-    <lastmod>2023-12-30T16:21:08.776Z</lastmod>
+    <lastmod>2023-12-31T14:32:13.457Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/gallery/index.html</loc>
+    
+    <lastmod>2023-12-31T14:31:12.801Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2023-12-31T14:25:01.263Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/draft/index.html</loc>
+    
+    <lastmod>2023-12-31T14:24:28.420Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/categories/index.html</loc>
     
-    <lastmod>2023-12-29T04:09:08.372Z</lastmod>
+    <lastmod>2023-12-31T14:21:18.601Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/tags/index.html</loc>
     
-    <lastmod>2023-12-28T15:37:31.733Z</lastmod>
+    <lastmod>2023-12-31T14:13:58.790Z</lastmod>
     
   </url>
   
