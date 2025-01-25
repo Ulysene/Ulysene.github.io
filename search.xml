@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/2025/01/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+      <url>/2025/01/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><div id="aplayer"></div><script>  const ap = new APlayer({    container: document.getElementById('aplayer'),    audio: [{      name: '测试曲目',      artist: '测试艺术家',      url: 'https://github.com/Ulysene/blog_image/raw/refs/heads/main/music/Test.mp3',      cover: 'https://github.com/Ulysene/blog_image/raw/main/img/theme/1.jpg?raw=true',    }]  });</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 1323 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+            <tag> 1234 </tag>
+            
+            <tag> 12535 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
