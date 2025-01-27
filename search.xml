@@ -4,27 +4,23 @@
   
     
     <entry>
-      <title>测试文章</title>
-      <link href="/2025/01/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-      <url>/2025/01/23/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      <title>你好，世界！</title>
+      <link href="/2024/01/04/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81/"/>
+      <url>/2024/01/04/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><div id="aplayer"></div><script>  const ap = new APlayer({    container: document.getElementById('aplayer'),    audio: [{      name: '测试曲目',      artist: '测试艺术家',      url: 'https://github.com/Ulysene/blog_image/raw/refs/heads/main/music/Test.mp3',      cover: 'https://github.com/Ulysene/blog_image/raw/main/img/theme/1.jpg?raw=true',    }]  });</script>]]></content>
+        <content type="html"><![CDATA[<p>“Hello, World!”</p><p>让一切从此开始吧。</p><hr><p>或许我该解释下为什么来写博客。尽管我向来很讨厌解释。干脆先来讲个故事吧：</p><p>天下竟有这等人——志存高远之人。昨天想拾起吉他，找群青涩的小伙子拉扯起一支乐队，在城市里灰白辗转；今天又羡慕起学者的渊博，渴望着上下求索，开拓认识的边界；明天，哪里还有明天呢？所有的明天都变成了昨天。</p><p>昨天，今天。这里有无数种答案，却几乎没有例外：所有的明天都变成了昨天。</p><p>终于，所幸有个“终于”。终于，志士们找到了解药：“顺其自然”，“时机未到”。我恨透了这些解药。我恨透了这群瘾君子。换言之，我恨透了我自己。</p><p>你就是个懒汉。尽管我们每个人都是。但你不一样：你渴望不劳而获，又渴望自己的一事无成得到辩护——你是个贪婪而虚伪的懒汉。</p><hr><p>我必须恨自己，这样我才有可能爱自己。只有我爱自己，才有可能像这样恨自己。</p><p>“为什么写博客”，如今我能给出不那么像样的回答了：因为我需要证明自己——我想做的，我会去做。我能去做。</p><p>这听上去很轻巧，但确是我极大的困扰。因为这关乎人的尊严：人究竟能不能主宰自我。</p><p>我不希望成为黏土，被随意揉捏，没有自己的形状。看看那些“有志之士”吧，都很会幻想。昨天今天，都给自己幻想出无数个形状。“有志之士”似乎有意志，但恐怕只是幻象。到了明天，他们还是会说“顺其自然”或者“时机未到”。这就是人最根本的悲哀：看似有意志，但本质上仍受到外界的左右。</p><p>我选择拥有自己的意志。或许这种信念也是被决定好的，但我不在乎。</p><p>我选择“拥有选择”。你好，世界。</p>]]></content>
       
       
       <categories>
           
-          <category> 1323 </category>
+          <category> 随笔 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> test </tag>
-            
-            <tag> 1234 </tag>
-            
-            <tag> 12535 </tag>
+            <tag> 随笔 </tag>
             
         </tags>
       
